@@ -47,6 +47,8 @@ https://www.coursera.org/professional-certificates/google-it-support
 
 https://www.udemy.com/course/introduction-to-computer-networks/
 
+NetworkChuck: https://www.youtube.com/c/NetworkChuck
+
 # Operating Systems
 
 https://www.youtube.com/watch?v=z2r-p7xc7c4
@@ -203,11 +205,17 @@ Zwink: https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ
 
 Live Overflow :https://www.youtube.com/c/LiveOverflow
 
+Loi Liang Yang :https://www.youtube.com/c/LoiLiangYang
+
 Hindi
 
 Spin The Hack: https://www.youtube.com/c/SpinTheHack
 
 Pratik Dabhi: https://www.youtube.com/c/impratikdabhi
+
+Bitten Tech: https://www.youtube.com/c/BittenTech
+
+
 
 Join Twitter Today!
 
@@ -261,6 +269,8 @@ Bug Bounty Platforms
 
 Crowdsourcing
 
+hackenproof: https://hackenproof.com/
+
 Bugcrowd: https://www.bugcrowd.com/
 
 Hackerone: https://www.hackerone.com/
@@ -271,13 +281,20 @@ YesWeHack: https://www.yeswehack.com/
 
 OpenBugBounty: https://www.openbugbounty.org/
 
+Bugbounty japan: https://bugbounty.jp/
+
+safeHat: https://safehats.com/
+
+
 Individual Programs
 
 Meta: https://www.facebook.com/whitehat
 
 Google: https://about.google/appsecurity/
 
-Bug Bounty Report Format
+<b> All bug hunting platform - chaos.projectdiscovery: https://chaos.projectdiscovery.io/#/ </b>
+
+# Bug Bounty Report Format
 
 Title
 
@@ -322,3 +339,4 @@ It's not necessary that a vulnerability will be rewarded based on the industry d
 Stay connected to the community. Learn and contribute. There is always someone better than you in something. don't miss an opportunity to network. Join forums, go to conferences and hacking events, meet people, learn from their experiences.
 
 Always be helpful.
+Ashutosh c. shah
