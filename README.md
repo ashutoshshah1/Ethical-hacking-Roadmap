@@ -310,6 +310,8 @@ Grant Collins: https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA/videos
 
 Joe Grand: https://www.youtube.com/c/JoeGrand
 
+Jeff Geerling :https://www.youtube.com/c/JeffGeerling
+
 Computerphile: https://www.youtube.com/user/Computerphile/videos
 
 Lennert :https://twitter.com/LennertWo
