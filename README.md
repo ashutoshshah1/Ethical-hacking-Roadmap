@@ -185,6 +185,8 @@ YouTube Channels
 
 English
 
+zSecurity: https://www.youtube.com/c/zSecurity
+
 Insider PHD: https://www.youtube.com/c/InsiderPhD
 
 Stok: https://www.youtube.com/c/STOKfredrik
@@ -206,6 +208,10 @@ Zwink: https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ
 Live Overflow :https://www.youtube.com/c/LiveOverflow
 
 Loi Liang Yang :https://www.youtube.com/c/LoiLiangYang
+
+David Bombal :https://www.youtube.com/c/DavidBombal
+
+Domain of Science : https://www.youtube.com/c/DomainofScience/videos
 
 Hindi
 
@@ -294,6 +300,21 @@ Google: https://about.google/appsecurity/
 
 <b> All bug hunting platform - chaos.projectdiscovery: https://chaos.projectdiscovery.io/#/ </b>
 
+# cybersecurity news
+
+Seytonic: https://www.youtube.com/c/Seytonic
+
+Grant Collins: https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA/videos
+
+# hardware hacking 
+
+Joe Grand: https://www.youtube.com/c/JoeGrand
+
+Computerphile: https://www.youtube.com/user/Computerphile/videos
+
+Lennert :https://twitter.com/LennertWo
+
+
 # Bug Bounty Report Format
 
 Title
@@ -320,6 +341,7 @@ Impact
 Write about the real-life impact, How an attacker can take advantage if he/she successfully exploits the vulnerability.
 What type of possible damages could be done? (avoid writing about the theoretical impact)
 Should align with the business objective of the organization
+
 
 Sample Report
 
