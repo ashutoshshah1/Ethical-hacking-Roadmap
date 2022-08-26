@@ -405,6 +405,26 @@ Link: https://addons.mozilla.org/en-US/firefox/addon/retire-js/
 Automated email extraction tool that automatically saves email addresses from web pages that we visits. Main goal of this add-on is to collect possible exposed email address from source code and can aid in performing social engineering attacks, credential stuffing attack etc.
 
 Link: https://addons.mozilla.org/en-US/firefox/addon/mailshunt-email-extractor/
+
+11. TruffleHog Chrome Extension
+The TruffleHog browser plugin scans visited websites for API keys and credentials and notifies you if any are found. This is helpful for conducting pentests and code reviews since it reveals keys that would otherwise be overlooked or need manual searching.
+
+Link: https://chrome.google.com/webstore/detail/trufflehog/bafhdnhjnlcdbjcdcnafhdcphhnfnhjc
+
+12. Fake Filler
+This extension’s goal is to make it easier and faster for developers and testers to test fill-up forms. It helps in filling all form inputs (textboxes, text areas, radio buttons, drop downs, etc.) with fake and randomly generated data.
+
+Link: https://addons.mozilla.org/en-US/firefox/addon/fake-filler/
+
+13. Click-jacking
+This addon helps in finding clickjacking vulnerability by looking for absence of X-Frame-Options header in a website.
+
+Link: https://addons.mozilla.org/en-US/firefox/addon/click-jacking/
+
+14. Cookie Editor
+Cookie-Editor helps you in manipulating the cookie of a website. A user can modify, delete, add cookie values for different purpose of tests. Vulnerabilities like session theft, privilege escalation, session misconfiguration etc. can be tested using this add-on.
+
+Link: https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/
  
  
 Some additional Tips
