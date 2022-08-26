@@ -348,7 +348,65 @@ Should align with the business objective of the organization
 Sample Report
 
 
+# Browser Extensions for Bug Bounty
 
+ 1) KNOXSS For Cross Site Scripting :
+ 
+KNOXSS is a popular tool developed by Brazilian Security Researcher @Brutelogic . The tool aims to find Cross Site Scripting Vulnerability while we browse the website. If you are new to Cross Site Scripting attack We suggest you to check this post. The tool has two versions available, Community Edition which is free to use
+ 
+ Link - https://addons.mozilla.org/en-US/firefox/addon/knoxss-community-edition
+ 
+ 2) Wappalyzer :
+ 
+ Wappalyzer is a technology profiler that identifies the CMS, JS libraries, Frameworks and other technologies that the websites use. It will help you to focus the recon process on a certain technology or framework by identifying them with the current version of them. The alternative for this add-on can be Builtwith technology Lookup
+ 
+ Link - https://addons.mozilla.org/en-US/firefox/addon/wappalyzer
+ 
+ 3. Hackbar Addon
+
+The security researchers will finds Hackbar tool to be extremely beneficial. When testing a web application or web server, we frequently alter the address bar’s settings. We repeatedly refresh webpages. All of these things frequently occur to us. Hackbar add-on aids us in reducing this time and performing our task quickly. The tool consist payloads for XSS attacks, SQL Injection, WAF Bypass Payloads, LFI Payloads etc.
+
+Link: https://addons.mozilla.org/en-US/firefox/addon/maxs-hackbar
+Link: https://addons.mozilla.org/en-US/firefox/addon/hackbartool
+
+4.FoxyProxy
+A Firefox addon called FoxyProxy helps to automatically switch an internet connection between one or more proxy servers. FoxyProxy, to put it simply, simplifies the manual process of modifying the Connection Settings in Firefox. It is very useful during pen testing work. It helps in turning off/on proxy in a single click. FoxyProxy also does have feature of bypassing proxy (Intercept in burp suite) for specific domains using blacklist and whitelist feature.
+
+Link: https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard
+
+5. DotGit
+An extension for checking if .git is exposed in visited websites. The addon also checks for exposed environment files (.env), security.txt and more while we browse the web. This addon helps us in finding information disclosure vulnerability. Sometimes exposing environment file and git file can have serious security impact.
+
+Link: https://addons.mozilla.org/en-US/firefox/addon/dotgit
+
+6. User-Agent Switcher
+A user-agent switcher modifies your browser’s user agent. When communicating with a web server, your browser sends a string of text or a HTTP header called a “user agent” that contains information about the user’s operating system, current browser, rendering engine, and other important components. Based on the users agent the servers gives response to the user.
+
+During penetration testing we can test for application by loading same application in different types of browser such as for a Mobile, for a PC, for a tablet etc. This is very handy for developers as well for testing responsiveness of a developed website.
+
+Link: https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher
+
+7. ModHeader
+ModHeader addon helps in modifying HTTP request and response headers easily in a browser. By the use of this add-on we can search for vulnerabilities like Authorization Bypass, cookie modification, session data manipulation, Referrer Bypass etc. Once we set HTTP header that will be used on each website that we visit.
+
+Link: https://addons.mozilla.org/en-US/firefox/addon/modheader-firefox/
+
+8. Beautifier & Minify
+You can easily minify and simplify CSS, HTML, and JavaScript code with the help of this add-on. During penetration testing we often land with large chunked JavaScript code which is difficult to read and get to understand the flow of code. In such time this addon help us in beautifully minifying code in readable format so that we can find flaws in source code.
+
+Link: https://addons.mozilla.org/en-US/firefox/addon/beautifer-minify/
+
+9. Retire.js
+With retire JS we can find for vulnerable JavaScript library. It helps in finding known vulnerabilities sin js and few of the CVE affecting JS products.
+
+Link: https://addons.mozilla.org/en-US/firefox/addon/retire-js/
+
+10. Email Extractor
+Automated email extraction tool that automatically saves email addresses from web pages that we visits. Main goal of this add-on is to collect possible exposed email address from source code and can aid in performing social engineering attacks, credential stuffing attack etc.
+
+Link: https://addons.mozilla.org/en-US/firefox/addon/mailshunt-email-extractor/
+ 
+ 
 Some additional Tips
 
 Don't do bug bounty as a full time in the beginning (although I suggest don't do it full time at any point). There is no guarantee to get bugs every other day, there is no stability. Always keep multiple sources of income (bug bounty not being the primary).
