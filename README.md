@@ -227,6 +227,48 @@ Join Twitter Today!
 
 World class security researchers and bug bounty hunters are on Twitter. Where are you? Join Twitter now and get daily updates on new issues, vulnerabilities, zero days, exploits, and join people sharing their methodologies, resources, notes and experiences in the cyber security world!
 
+# Twitter expert Infosec People's To Must Follow!
+
+1) Ben Sadeghipour : https://twitter.com/NahamSec
+
+2) STÖK : https://twitter.com/stokfredrik
+
+3) TomNomNom : https://twitter.com/TomNomNom
+
+4) shubs : https://twitter.com/infosec_au
+
+5) Emad Shanab : https://twitter.com/Alra3ees
+
+6) payloadartist : https://twitter.com/payloadartist
+
+7) ʀᴇᴍᴏɴ : https://twitter.com/remonsec
+
+8) Aditya Shende : https://twitter.com/ADITYASHENDE17
+
+9) Hussein Daher : https://twitter.com/HusseiN98D
+
+10) The XSS Rat : https://twitter.com/theXSSrat
+
+11) zseano : https://twitter.com/zseano
+
+12) Corben Leo : https://twitter.com/hacker_
+
+13) Vickie Li : https://twitter.com/vickieli7
+
+14) GodFather Orwa : https://twitter.com/GodfatherOrwa
+
+15) Ashish Kunwar : https://twitter.com/D0rkerDevil
+
+16) Farah_Hawaa : https://twitter.com/Farah_Hawaa
+
+17) Jason Haddix : https://twitter.com/Jhaddix 
+
+18) @brutelogic : https://twitter.com/brutelogic
+
+19) gregxsunday : https://twitter.com/gregxsunday
+
+We highly appricate every researcher and bug hunter contrubuting there time and support to the community. 
+
 PRACTICE! PRACTICE! and PRACTICE!
 
 CTF
