@@ -468,6 +468,58 @@ Cookie-Editor helps you in manipulating the cookie of a website. A user can modi
 
 Link: https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/
  
+ # Advance Recon & information gathering
+ 
+ 1. Shodan-Search for devices connected to the internet.  ( https://www.shodan.io/ )
+ 
+ 2. Wigle-Database of wireless networks, with statistics. ( https://www.wigle.net/ ) 
+ 
+ 3. Grep App-Search across a half million git repos. ( https://grep.app/ ) 
+ 
+ 4. Binary Edge-Scans the internet for threat intelligence. ( https://www.binaryedge.io/ ) 
+ 
+ 5. ONYPHE-Collects cyber-threat intelligence data. ( https://www.onyphe.io/ ) 
+ 
+ 6. GreyNoise-Search for devices connected to the internet. ( https://www.greynoise.io/ ) 
+ 
+ 7. Censys-Assessing attack surface for internet connected devices. ( https://search.censys.io/hosts/ ) 
+ 
+ 8. Hunter-Search for email addresses belonging to a website. ( https://hunter.io/) 
+ 
+ 9. Fofa-Search for various threat intelligence. 
+ 
+ 10. ZoomEye-Gather information about targets. ( https://github.com/topics/zoomeye ) 
+ 
+ 11. Leak X-Search publicly indexed information. ( https://leakix.net/ ) 
+ 
+ 12. IntelligenceX-Search Tor, 12P, data leaks, domains, and emails. ( https://intelx.io/ ) 
+ 
+ 13. Netlas-Search and monitor internet connected assets. ( https://netlas.io/ ) 
+ 
+ 14. URL Scan-Free service to scan and analyse websites. ( https://urlscan.io/ ) 
+ 
+ 15. PublicWWW-Marketing and affiliate marketing research. ( https://publicwww.com/ ) 
+ 
+ 16. FullHunt-Search and discovery attack surfaces. ( https://fullhunt.io/search ) 
+ 
+ 17. CRT sh-Search for certs that have been logged by CT. ( https://crt.sh/ ) 
+ 
+ 18. Vulners-Search vulnerabilities in a large database. ( https://vulners.com/search ) 
+ 
+ 19 Pulsedive-Search for threat intelligence. ( https://pulsedive.com/ ) 
+ 
+ 20. Packet Storm Security-Browse latest vulnerabilities and exploits. 
+ 
+ 21. GrayHatWarefare-Search public S3 buckets. ( https://buckets.grayhatwarfare.com/ ) 
+ 
+ 22. viz.greynoise.io - GreyNoise Visualizer
+ 
+ 23. onyphe.io - Cyber Defense Search Engine
+ 
+ 24. vigilante.pw - Breached Database Directory
+
+25.  dnsdumpster.com - DNS recon & research .phonebook.cz - Search for subdomains, email addresses, or URLS
+
  
 Some additional Tips
 
