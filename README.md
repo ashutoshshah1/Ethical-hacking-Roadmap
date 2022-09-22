@@ -271,7 +271,7 @@ We highly appricate every researcher and bug hunter contrubuting there time and 
 
 PRACTICE! PRACTICE! and PRACTICE!
 
-CTF
+# CTF
 
 Hacker 101: https://www.hackerone.com/hackers/hacker101
 
